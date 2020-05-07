@@ -1,0 +1,2 @@
+# make user of set default in dict , default dict
+# In Python Dictionary, setdefault() method returns the value of a key (if the key is in dictionary). If not, it inserts key with a value to the dictionary.
