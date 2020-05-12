@@ -1,0 +1,9 @@
+# Pycharm
+.idea/
+.ipynb_checkpoints/
+
+# xml files
+*.xml
+
+#iml files
+*.iml
