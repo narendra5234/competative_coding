@@ -1,5 +1,3 @@
-from math import sqrt
-
 for t in range(int(input())):
     first, last = map(int, input().split())
     for num in range(first, last + 1):

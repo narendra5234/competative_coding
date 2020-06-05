@@ -1,4 +1,4 @@
-from math import sqrt
+from others.math import sqrt
 for t in range(int(input())):
     n = int(input())
     for i in range(int(sqrt(n)), 0, -1):
